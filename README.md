@@ -14,12 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-sachin-deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-sachin-deshmukh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abhishekdeshmukh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishekdeshmukh001" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhisheksdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhisheksdeshmukh" height="30" width="40" /></a>
 <a href="https://instagram.com/hellomrabhiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hellomrabhiee" height="30" width="40" /></a>
 <a href="https://medium.com/@abhishek-deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishek-deshmukh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhishek_d01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek_d01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abhishekdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhishekdeshmukh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhisheksdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhisheksdeshmukh" height="30" width="40" /></a>
 </p>
 
